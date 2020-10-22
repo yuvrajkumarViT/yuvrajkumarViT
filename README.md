@@ -2,7 +2,8 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yuvrajkumar04/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imyuvrajkumar?color=%23657786&logo=twitter&style=for-the-badge)](https://twitter.com/imyuvrajkumar)
-
+<br>
+![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ## I'm a student from Vellore Institute of Technology, Vellore. I am pursuing B.Tech from Information Technology (IT)!!
 
 - 🔭 I just started exploring Github and Development World !!!
@@ -11,7 +12,7 @@
 - 🥅 2020 Goals: Code n Code (+CGPA 😁)
 - ⚡ Fun fact: I am creative. Believe me...................
 
-![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=green)
+
 
 ### Connect with me:
 
