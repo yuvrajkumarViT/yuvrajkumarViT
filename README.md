@@ -70,11 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
-2. 🎉 Merged PR [#13](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
-3. 💪 Opened PR [#13](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
-4. 🎉 Merged PR [#12](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
-5. 💪 Opened PR [#12](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
+
 <!--END_SECTION:activity-->
 
 </details>
