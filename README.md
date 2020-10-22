@@ -77,14 +77,9 @@
 <br />
 <br />
 <hr>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
-</details>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvrajkumarViT&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
