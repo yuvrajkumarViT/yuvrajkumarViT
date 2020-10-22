@@ -24,11 +24,11 @@
 <hr>
 <h2><b> I'm a student from Vellore Institute of Technology, Vellore. I am pursuing B.Tech from Information Technology (IT)!! </b></h2>
 
-- 🔭 I just started exploring Github and Development World !!!
-- 🌱 I’m currently wondering 😶...........
-- 👯 I’m looking for an internship opportunity.
-- 🥅 2020 Goals: Code n Code (+CGPA 😁)
-- ⚡ Fun fact: I am creative. Believe me...................
+- 🔭 *I just started exploring Github and Development World !!!*
+- 🌱 *I’m currently wondering 😶...........*
+- 👯 *I’m looking for an internship opportunity.*
+- 🥅 *2020 Goals: Code n Code (+CGPA 😁)*
+- ⚡ *Fun fact: I am creative. Believe me...................*
 
 
 
