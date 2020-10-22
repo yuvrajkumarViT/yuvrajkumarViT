@@ -1,4 +1,4 @@
-### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi 👋
+### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi :octocat:
 <hr>
 
 
