@@ -16,11 +16,22 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 <br>
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hack]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][code]
+<br>
+<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/imyuvrajkumar?color=%23657786&logo=twitter&style=for-the-badge)](https://twitter.com/imyuvrajkumar)
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+
+<p align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+</p>
+
+
 <hr>
 <h2><b> I'm a student from Vellore Institute of Technology, Vellore. I am pursuing B.Tech from Information Technology (IT)!! </b></h2>
 
@@ -92,3 +103,5 @@
 [quora]: https://www.quora.com/profile/Yuvraj-Kumar-79
 [github]: https://github.com/yuvrajkumarViT
 [yuvi]: https://github.com/yuvrajkumarViT
+[hack]: https://www.hackerrank.com/yuvrajkumar013
+[code]: https://www.codechef.com/users/yuvrajkumar4
