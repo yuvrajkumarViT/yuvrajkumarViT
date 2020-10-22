@@ -1,4 +1,4 @@
-### Hi, I am <b>Yuvraj</b>. You can call me Yuvi 👋
+### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi 👋
 <hr>
 
 
