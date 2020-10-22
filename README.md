@@ -55,7 +55,7 @@
 <br />
 <br />
 
-<!--START_SECTION:activity-->
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -66,7 +66,7 @@
 5. 💪 Opened PR [#12](https://github.com/yuvrajkumarViT/yuvrajkumarViT) in [yuvrajkumarViT/yuvrajkumarViT](https://github.com/yuvrajkumarViT/yuvrajkumarViT)
 <!--END_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+</details>
 
 
 <details>
