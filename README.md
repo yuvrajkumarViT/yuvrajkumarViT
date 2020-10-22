@@ -1,11 +1,11 @@
 <p align="center">
   :octocat:
 </p>
-### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi :v:
+<h1><b> Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi :v: </b></h1>
 <hr>
 
 
-### Connect with me on:
+<h2><b> Connect with me on: </b></h2>
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -22,7 +22,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=blue&style=flat-square&label=PROFILE+VIEWS)
 <hr>
-## I'm a student from Vellore Institute of Technology, Vellore. I am pursuing B.Tech from Information Technology (IT)!!
+<h2><b> I'm a student from Vellore Institute of Technology, Vellore. I am pursuing B.Tech from Information Technology (IT)!! </b></h2>
 
 - 🔭 I just started exploring Github and Development World !!!
 - 🌱 I’m currently wondering 😶...........
@@ -36,7 +36,7 @@
 
 <br />
 
-### Languages and Tools:
+<h2><b> Languages and Tools: <b></h2>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][yuvi]
 
