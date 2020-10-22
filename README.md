@@ -79,13 +79,11 @@
 
 </details>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajkumarViT&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+</p>
 
-  <img align="left" alt="Yuvraj Kumar's Stats" src="https://github-readme-stats-ashy-gamma.vercel.app/api?username=yuvrajkumarViT&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [website]: https://yuvrajkumarvit.github.io/CV-HTML-basic-/
