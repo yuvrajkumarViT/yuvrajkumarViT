@@ -1,4 +1,7 @@
-### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi :octocat:
+<p align="center">
+  :octocat:
+</p>
+### Hello fellow Coder !!! , I am Yuvraj. You can call me Yuvi :v:
 <hr>
 
 
