@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Code n Code (+CGPA 😁)
 - ⚡ Fun fact: I am creative. Believe me...................
 
-
+![](https://komarev.com/ghpvc/?username=yuvrajkumarViT&color=green)
 
 ### Connect with me:
 
